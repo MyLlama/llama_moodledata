@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="105">
+    <contenthash>b3a2d50f9fc091a935bac6bec1d03304cfabf7ce</contenthash>
+    <contextid>25</contextid>
+    <component>course</component>
+    <filearea>overviewfiles</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>SA PIc.jpg</filename>
+    <userid>6</userid>
+    <filesize>93104</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1680363434</timecreated>
+    <timemodified>1680363513</timemodified>
+    <source>Topic _ Foundations of mindfulness 1.jpg</source>
+    <author>Srinivas Vupadrishta</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="106">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>25</contextid>
+    <component>course</component>
+    <filearea>overviewfiles</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>6</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1680363434</timecreated>
+    <timemodified>1686151151</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

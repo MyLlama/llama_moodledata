@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles_definition>
+  <role id="3">
+    <name></name>
+    <shortname>editingteacher</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description></description>
+    <sortorder>3</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+  <role id="4">
+    <name>Company Executive</name>
+    <shortname>companyexecutive</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>Not Editing Teacher with reports and grade edit rights</description>
+    <sortorder>4</sortorder>
+    <archetype>teacher</archetype>
+  </role>
+  <role id="5">
+    <name></name>
+    <shortname>student</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description></description>
+    <sortorder>5</sortorder>
+    <archetype>student</archetype>
+  </role>
+  <role id="10">
+    <name>WebService</name>
+    <shortname>webservice</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>Not Editing Teacher with reports and grade edit rights</description>
+    <sortorder>9</sortorder>
+    <archetype>editingteacher</archetype>
+  </role>
+</roles_definition>

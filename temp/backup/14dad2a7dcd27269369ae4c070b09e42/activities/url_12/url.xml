@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="12" modulename="url" contextid="33">
+  <url id="4">
+    <name>Self Awareness - Closing Session</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Hello folks!&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Please click on this link to attend the closing session by Mr. Gopi Krishnaswamy.&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Warmly,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Team Llama&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://meet.google.com/nak-dxwo-umu</externalurl>
+    <display>3</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1687171027</timemodified>
+  </url>
+</activity>

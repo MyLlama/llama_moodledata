@@ -1,0 +1,4420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="6" modulename="quiz" contextid="27">
+  <quiz id="2">
+    <name>Pre Assessment</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Hello folks,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;This assessment needs to be completed before starting the course. It will take only couple of minutes to do so!&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Warmly,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Team Llama&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>1683090180</timeopen>
+    <timeclose>1684126980</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>1</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>65536</reviewattempt>
+    <reviewcorrectness>0</reviewcorrectness>
+    <reviewmarks>0</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>0</reviewoverallfeedback>
+    <questionsperpage>0</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>13.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>1680364471</timecreated>
+    <timemodified>1683522993</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="2">
+        <quizid>2</quizid>
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="2">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>2</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="3">
+        <quizid>2</quizid>
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="3">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>3</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="4">
+        <quizid>2</quizid>
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="4">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>4</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="5">
+        <quizid>2</quizid>
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="5">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>6</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="6">
+        <quizid>2</quizid>
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="6">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>7</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="7">
+        <quizid>2</quizid>
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="7">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>8</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="8">
+        <quizid>2</quizid>
+        <slot>7</slot>
+        <page>7</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="8">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>9</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="9">
+        <quizid>2</quizid>
+        <slot>8</slot>
+        <page>8</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="9">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>11</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="10">
+        <quizid>2</quizid>
+        <slot>9</slot>
+        <page>9</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="10">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>12</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="11">
+        <quizid>2</quizid>
+        <slot>10</slot>
+        <page>10</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="11">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>14</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="12">
+        <quizid>2</quizid>
+        <slot>11</slot>
+        <page>11</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="12">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>16</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="13">
+        <quizid>2</quizid>
+        <slot>12</slot>
+        <page>12</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="13">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>19</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="14">
+        <quizid>2</quizid>
+        <slot>13</slot>
+        <page>13</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="14">
+          <usingcontextid>27</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>21</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="2">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="150">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;Well done, you’re very self-aware!&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>7.50000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+      <feedback id="151">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;You’re mostly self-aware, with a few areas you can develop.&lt;br&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>5.00000</mingrade>
+        <maxgrade>7.50000</maxgrade>
+      </feedback>
+      <feedback id="152">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;You have some self-awareness, but there’s definitely room for improvement.&lt;br&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>2.50000</mingrade>
+        <maxgrade>5.00000</maxgrade>
+      </feedback>
+      <feedback id="153">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;You’re lacking self-awareness... but you can learn!&lt;br&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>2.50000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="2">
+        <userid>4</userid>
+        <gradeval>6.23077</gradeval>
+        <timemodified>1680366703</timemodified>
+      </grade>
+      <grade id="3">
+        <userid>8</userid>
+        <gradeval>5.03846</gradeval>
+        <timemodified>1680408625</timemodified>
+      </grade>
+      <grade id="5">
+        <userid>9</userid>
+        <gradeval>1.92308</gradeval>
+        <timemodified>1680409700</timemodified>
+      </grade>
+      <grade id="7">
+        <userid>7</userid>
+        <gradeval>0.76923</gradeval>
+        <timemodified>1680414883</timemodified>
+      </grade>
+      <grade id="71">
+        <userid>12</userid>
+        <gradeval>0.00000</gradeval>
+        <timemodified>1692705399</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="4">
+        <userid>4</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>4</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0</layout>
+        <currentpage>12</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1680366185</timestart>
+        <timefinish>1680366703</timefinish>
+        <timemodified>1680366703</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>8.10000</sumgrades>
+        <gradednotificationsenttime>1680366703</gradednotificationsenttime>
+        <question_usage id="4">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="8">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the behaviours that you are doing at all times?
+
+: Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+; No, I rarely am aware of what my body or mind is doing.
+
+; Sometimes. I’m usually aware of what I’m doing, although at times, I get caught
+
+up in something or don’t realize what I’m doing.
+</questionsummary>
+              <rightanswer>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</rightanswer>
+              <responsesummary>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="10">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7,9,8</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="23">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366189</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="34">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="9">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>4</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotions that you are feeling at all times?
+
+: Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+; Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+; No, I rarely think about what emotion I’m feeling. I just feel something and act
+
+accordingly.
+</questionsummary>
+              <rightanswer>Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</rightanswer>
+              <responsesummary>No, I rarely think about what emotion I’m feeling. I just feel something and act
+
+accordingly.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="11">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>10,11,12</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="24">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366194</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="35">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.0500000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="10">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>5</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify what causes a shift to negative emotions?
+
+: Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+; No, I rarely know what specifically causes me to shift to negative emotions. All of a
+
+sudden, I’m no longer happy and I don’t know why.
+; Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</questionsummary>
+              <rightanswer>Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="12">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>14,15,13</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="36">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="11">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>7</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotional patterns you experience the most?
+
+: Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+; No, I have no idea what emotional patterns I repeat. I have emotions, but I can’t
+
+name any trends with when or why they happen.
+; Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+</questionsummary>
+              <rightanswer>Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</rightanswer>
+              <responsesummary>Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="13">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>19,21,20</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="25">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366350</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="37">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="12">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>8</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest fear triggers?
+
+: Somewhat. I can tell you what I’m most scared of, but I don’t fully know how it
+
+affects my life and daily actions.
+; No, I have no idea what a fear trigger even is or if I have one.
+
+; Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</questionsummary>
+              <rightanswer>Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</rightanswer>
+              <responsesummary>Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="14">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>23,24,22</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="26">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366353</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="38">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="13">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>9</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest shame triggers?
+
+: Somewhat. I can tell you what I’m most ashamed of, but I don’t fully know how it
+
+affects my life and daily actions.
+; Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+; No, I have no idea what a shame trigger even is or if I have one.
+
+</questionsummary>
+              <rightanswer>Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</rightanswer>
+              <responsesummary>Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="15">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>26,25,27</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="27">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366356</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="39">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="14">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>10</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the principles and values you believe in the most?
+
+: Somewhat. I can name a few principles and qualities that are most important to
+
+me, but I haven’t given this list a lot of thought.
+; Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+; No, I have no idea what values I personally believe in the most.
+
+</questionsummary>
+              <rightanswer>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</rightanswer>
+              <responsesummary>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="16">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>29,28,30</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="28">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366359</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="40">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="15">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>12</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>How much do you consider these principles when making decisions?
+: A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+; Somewhat. I know what my principles are but don’t really know when they come
+
+into effect in my life.
+; Not at all. I live my life without ever giving a thought to any principles.
+
+</questionsummary>
+              <rightanswer>A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</rightanswer>
+              <responsesummary>Not at all. I live my life without ever giving a thought to any principles.
+
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="17">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>34,35,36</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="29">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366361</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="41">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.0500000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="16">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>13</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the passions that you have and lose track of time while doing?
+: No, I don’t have any clear passions.
+
+; Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call
+
+them passions.
+; Yes, I know what I’m passionate about and why they give me joy.
+
+</questionsummary>
+              <rightanswer>Yes, I know what I’m passionate about and why they give me joy.
+
+</rightanswer>
+              <responsesummary>Yes, I know what I’m passionate about and why they give me joy.
+
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="18">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>39,38,37</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="30">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366363</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="42">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="17">
+              <slot>10</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>15</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you state a list of goals and ambitions you have for yourself?
+
+: No, I don’t really have any driving goals or ambitions in my life.
+
+; Somewhat. I have a few goals and ambitions, although they might not be the most
+
+defined.
+; Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</questionsummary>
+              <rightanswer>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</rightanswer>
+              <responsesummary>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="19">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>45,44,43</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="31">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366366</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="43">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="18">
+              <slot>11</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>17</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you describe the environment you thrive in the most?
+
+: Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+; No, I don’t know what environment works best for me. I just try to make it work
+
+; Somewhat. I know certain things that I would want, but I can’t fully describe the
+
+exact environment that I thrive in.
+</questionsummary>
+              <rightanswer>Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+</rightanswer>
+              <responsesummary>Somewhat. I know certain things that I would want, but I can’t fully describe the
+
+exact environment that I thrive in.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="20">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>49,51,50</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="32">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366368</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="44">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="19">
+              <slot>12</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>20</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of personal strengths and how they manifest themselves in your life?
+: Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+; No, I don’t know what my strengths are. I just try to do my best.
+
+; Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+</questionsummary>
+              <rightanswer>Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+</rightanswer>
+              <responsesummary>Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="21">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>58,60,59</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="33">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366371</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="45">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="20">
+              <slot>13</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>22</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of shortcomings and how they manifest themselves in your life?
+: Somewhat. I mostly know what my weaknesses are, although I don’t have an
+
+exact list. I try to avoid them, but I don’t really know how they hold me back.
+; Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+; No, I don’t know what my shortcomings are.
+
+</questionsummary>
+              <rightanswer>Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680366703</timemodified>
+              <steps>
+                <step id="22">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366185</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>65,64,66</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="46">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680366703</timecreated>
+                  <userid>4</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="6">
+        <userid>8</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>6</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0</layout>
+        <currentpage>12</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1680408572</timestart>
+        <timefinish>1680408625</timefinish>
+        <timemodified>1680408625</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>6.55000</sumgrades>
+        <gradednotificationsenttime>1680408625</gradednotificationsenttime>
+        <question_usage id="6">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="34">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the behaviours that you are doing at all times?
+
+: Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+; Sometimes. I’m usually aware of what I’m doing, although at times, I get caught
+
+up in something or don’t realize what I’m doing.
+; No, I rarely am aware of what my body or mind is doing.
+
+</questionsummary>
+              <rightanswer>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</rightanswer>
+              <responsesummary>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="60">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7,8,9</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="73">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408576</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="85">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="35">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>4</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotions that you are feeling at all times?
+
+: Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+; Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+; No, I rarely think about what emotion I’m feeling. I just feel something and act
+
+accordingly.
+</questionsummary>
+              <rightanswer>Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</rightanswer>
+              <responsesummary>Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="61">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>11,10,12</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="74">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408578</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="86">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="36">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>5</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify what causes a shift to negative emotions?
+
+: No, I rarely know what specifically causes me to shift to negative emotions. All of a
+
+sudden, I’m no longer happy and I don’t know why.
+; Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+; Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</questionsummary>
+              <rightanswer>Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</rightanswer>
+              <responsesummary>Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="62">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>15,14,13</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="75">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408580</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="87">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="37">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>7</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotional patterns you experience the most?
+
+: No, I have no idea what emotional patterns I repeat. I have emotions, but I can’t
+
+name any trends with when or why they happen.
+; Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+; Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+</questionsummary>
+              <rightanswer>Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</rightanswer>
+              <responsesummary>Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="63">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>21,19,20</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="76">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408589</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="88">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="38">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>8</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>1</flagged>
+              <questionsummary>Can you name your deepest fear triggers?
+
+: Somewhat. I can tell you what I’m most scared of, but I don’t fully know how it
+
+affects my life and daily actions.
+; Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+; No, I have no idea what a fear trigger even is or if I have one.
+
+</questionsummary>
+              <rightanswer>Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="64">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>23,22,24</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="89">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="39">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>9</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest shame triggers?
+
+: Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+; No, I have no idea what a shame trigger even is or if I have one.
+
+; Somewhat. I can tell you what I’m most ashamed of, but I don’t fully know how it
+
+affects my life and daily actions.
+</questionsummary>
+              <rightanswer>Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</rightanswer>
+              <responsesummary>No, I have no idea what a shame trigger even is or if I have one.
+
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="65">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>25,27,26</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="77">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408597</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="90">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.0500000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="40">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>10</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the principles and values you believe in the most?
+
+: No, I have no idea what values I personally believe in the most.
+
+; Somewhat. I can name a few principles and qualities that are most important to
+
+me, but I haven’t given this list a lot of thought.
+; Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</questionsummary>
+              <rightanswer>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</rightanswer>
+              <responsesummary>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="66">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>30,29,28</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="78">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408600</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="91">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="41">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>12</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>How much do you consider these principles when making decisions?
+: Somewhat. I know what my principles are but don’t really know when they come
+
+into effect in my life.
+; A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+; Not at all. I live my life without ever giving a thought to any principles.
+
+</questionsummary>
+              <rightanswer>A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</rightanswer>
+              <responsesummary>Somewhat. I know what my principles are but don’t really know when they come
+
+into effect in my life.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="67">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>35,34,36</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="79">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408602</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="92">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="42">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>13</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the passions that you have and lose track of time while doing?
+: No, I don’t have any clear passions.
+
+; Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call
+
+them passions.
+; Yes, I know what I’m passionate about and why they give me joy.
+
+</questionsummary>
+              <rightanswer>Yes, I know what I’m passionate about and why they give me joy.
+
+</rightanswer>
+              <responsesummary>Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call
+
+them passions.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="68">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>39,38,37</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="80">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408605</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="93">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="43">
+              <slot>10</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>15</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you state a list of goals and ambitions you have for yourself?
+
+: Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+; Somewhat. I have a few goals and ambitions, although they might not be the most
+
+defined.
+; No, I don’t really have any driving goals or ambitions in my life.
+
+</questionsummary>
+              <rightanswer>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</rightanswer>
+              <responsesummary>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="69">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>43,44,45</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="81">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408608</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="94">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="44">
+              <slot>11</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>17</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you describe the environment you thrive in the most?
+
+: Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+; No, I don’t know what environment works best for me. I just try to make it work
+
+; Somewhat. I know certain things that I would want, but I can’t fully describe the
+
+exact environment that I thrive in.
+</questionsummary>
+              <rightanswer>Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+</rightanswer>
+              <responsesummary>No, I don’t know what environment works best for me. I just try to make it work
+
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="70">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>49,51,50</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="82">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408611</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="95">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedwrong</state>
+                  <fraction>0.0000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="45">
+              <slot>12</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>20</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of personal strengths and how they manifest themselves in your life?
+: Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+; No, I don’t know what my strengths are. I just try to do my best.
+
+; Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+</questionsummary>
+              <rightanswer>Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+</rightanswer>
+              <responsesummary>Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="71">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>58,60,59</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="83">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408613</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="96">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="46">
+              <slot>13</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>22</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of shortcomings and how they manifest themselves in your life?
+: Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+; Somewhat. I mostly know what my weaknesses are, although I don’t have an
+
+exact list. I try to avoid them, but I don’t really know how they hold me back.
+; No, I don’t know what my shortcomings are.
+
+</questionsummary>
+              <rightanswer>Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+</rightanswer>
+              <responsesummary>Somewhat. I mostly know what my weaknesses are, although I don’t have an
+
+exact list. I try to avoid them, but I don’t really know how they hold me back.
+</responsesummary>
+              <timemodified>1680408625</timemodified>
+              <steps>
+                <step id="72">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408572</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>64,65,66</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="84">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680408616</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="97">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680408625</timecreated>
+                  <userid>8</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="8">
+        <userid>9</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>8</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0</layout>
+        <currentpage>4</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1680409685</timestart>
+        <timefinish>1680409700</timefinish>
+        <timemodified>1680409700</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>2.50000</sumgrades>
+        <gradednotificationsenttime>1680409700</gradednotificationsenttime>
+        <question_usage id="8">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="67">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the behaviours that you are doing at all times?
+
+: No, I rarely am aware of what my body or mind is doing.
+
+; Sometimes. I’m usually aware of what I’m doing, although at times, I get caught
+
+up in something or don’t realize what I’m doing.
+; Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</questionsummary>
+              <rightanswer>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</rightanswer>
+              <responsesummary>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="141">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9,8,7</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="154">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409688</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="158">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="68">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>4</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotions that you are feeling at all times?
+
+: Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+; No, I rarely think about what emotion I’m feeling. I just feel something and act
+
+accordingly.
+; Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+</questionsummary>
+              <rightanswer>Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</rightanswer>
+              <responsesummary>Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="142">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>10,12,11</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="155">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409690</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="159">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="69">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>5</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify what causes a shift to negative emotions?
+
+: Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+; No, I rarely know what specifically causes me to shift to negative emotions. All of a
+
+sudden, I’m no longer happy and I don’t know why.
+; Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</questionsummary>
+              <rightanswer>Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</rightanswer>
+              <responsesummary>Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="143">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>14,15,13</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="156">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409692</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="160">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="70">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>7</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotional patterns you experience the most?
+
+: Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+; No, I have no idea what emotional patterns I repeat. I have emotions, but I can’t
+
+name any trends with when or why they happen.
+; Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</questionsummary>
+              <rightanswer>Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</rightanswer>
+              <responsesummary>Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="144">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>20,21,19</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="157">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409695</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="161">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.5000000</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="71">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>8</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest fear triggers?
+
+: No, I have no idea what a fear trigger even is or if I have one.
+
+; Somewhat. I can tell you what I’m most scared of, but I don’t fully know how it
+
+affects my life and daily actions.
+; Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</questionsummary>
+              <rightanswer>Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="145">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>24,23,22</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="162">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="72">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>9</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest shame triggers?
+
+: Somewhat. I can tell you what I’m most ashamed of, but I don’t fully know how it
+
+affects my life and daily actions.
+; Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+; No, I have no idea what a shame trigger even is or if I have one.
+
+</questionsummary>
+              <rightanswer>Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="146">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>26,25,27</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="163">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="73">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>10</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the principles and values you believe in the most?
+
+: No, I have no idea what values I personally believe in the most.
+
+; Somewhat. I can name a few principles and qualities that are most important to
+
+me, but I haven’t given this list a lot of thought.
+; Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</questionsummary>
+              <rightanswer>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="147">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>30,29,28</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="164">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="74">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>12</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>How much do you consider these principles when making decisions?
+: Not at all. I live my life without ever giving a thought to any principles.
+
+; Somewhat. I know what my principles are but don’t really know when they come
+
+into effect in my life.
+; A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</questionsummary>
+              <rightanswer>A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="148">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>36,35,34</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="165">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="75">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>13</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the passions that you have and lose track of time while doing?
+: Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call
+
+them passions.
+; No, I don’t have any clear passions.
+
+; Yes, I know what I’m passionate about and why they give me joy.
+
+</questionsummary>
+              <rightanswer>Yes, I know what I’m passionate about and why they give me joy.
+
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="149">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>38,39,37</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="166">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="76">
+              <slot>10</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>15</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you state a list of goals and ambitions you have for yourself?
+
+: Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+; No, I don’t really have any driving goals or ambitions in my life.
+
+; Somewhat. I have a few goals and ambitions, although they might not be the most
+
+defined.
+</questionsummary>
+              <rightanswer>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="150">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>43,45,44</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="167">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="77">
+              <slot>11</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>17</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you describe the environment you thrive in the most?
+
+: Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+; No, I don’t know what environment works best for me. I just try to make it work
+
+; Somewhat. I know certain things that I would want, but I can’t fully describe the
+
+exact environment that I thrive in.
+</questionsummary>
+              <rightanswer>Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="151">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>49,51,50</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="168">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="78">
+              <slot>12</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>20</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of personal strengths and how they manifest themselves in your life?
+: Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+; Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+; No, I don’t know what my strengths are. I just try to do my best.
+
+</questionsummary>
+              <rightanswer>Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="152">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>58,59,60</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="169">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="79">
+              <slot>13</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>22</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of shortcomings and how they manifest themselves in your life?
+: Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+; No, I don’t know what my shortcomings are.
+
+; Somewhat. I mostly know what my weaknesses are, although I don’t have an
+
+exact list. I try to avoid them, but I don’t really know how they hold me back.
+</questionsummary>
+              <rightanswer>Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680409700</timemodified>
+              <steps>
+                <step id="153">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409685</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>64,66,65</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="170">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680409700</timecreated>
+                  <userid>9</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="10">
+        <userid>7</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>10</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1680414647</timestart>
+        <timefinish>1680414883</timefinish>
+        <timemodified>1680414883</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>1.00000</sumgrades>
+        <gradednotificationsenttime>1680414883</gradednotificationsenttime>
+        <question_usage id="10">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="100">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the behaviours that you are doing at all times?
+
+: No, I rarely am aware of what my body or mind is doing.
+
+; Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+; Sometimes. I’m usually aware of what I’m doing, although at times, I get caught
+
+up in something or don’t realize what I’m doing.
+</questionsummary>
+              <rightanswer>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</rightanswer>
+              <responsesummary>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="217">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9,7,8</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="230">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414704</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="231">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="101">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>4</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotions that you are feeling at all times?
+
+: No, I rarely think about what emotion I’m feeling. I just feel something and act
+
+accordingly.
+; Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+; Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</questionsummary>
+              <rightanswer>Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="218">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>12,11,10</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="232">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="102">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>5</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify what causes a shift to negative emotions?
+
+: Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+; Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+; No, I rarely know what specifically causes me to shift to negative emotions. All of a
+
+sudden, I’m no longer happy and I don’t know why.
+</questionsummary>
+              <rightanswer>Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="219">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>14,13,15</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="233">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="103">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>7</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotional patterns you experience the most?
+
+: Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+; No, I have no idea what emotional patterns I repeat. I have emotions, but I can’t
+
+name any trends with when or why they happen.
+; Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</questionsummary>
+              <rightanswer>Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="220">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>20,21,19</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="234">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="104">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>8</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest fear triggers?
+
+: Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+; Somewhat. I can tell you what I’m most scared of, but I don’t fully know how it
+
+affects my life and daily actions.
+; No, I have no idea what a fear trigger even is or if I have one.
+
+</questionsummary>
+              <rightanswer>Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="221">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>22,23,24</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="235">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="105">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>9</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest shame triggers?
+
+: Somewhat. I can tell you what I’m most ashamed of, but I don’t fully know how it
+
+affects my life and daily actions.
+; No, I have no idea what a shame trigger even is or if I have one.
+
+; Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</questionsummary>
+              <rightanswer>Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="222">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>26,27,25</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="236">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="106">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>10</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the principles and values you believe in the most?
+
+: No, I have no idea what values I personally believe in the most.
+
+; Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+; Somewhat. I can name a few principles and qualities that are most important to
+
+me, but I haven’t given this list a lot of thought.
+</questionsummary>
+              <rightanswer>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="223">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>30,28,29</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="237">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="107">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>12</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>How much do you consider these principles when making decisions?
+: Somewhat. I know what my principles are but don’t really know when they come
+
+into effect in my life.
+; Not at all. I live my life without ever giving a thought to any principles.
+
+; A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</questionsummary>
+              <rightanswer>A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="224">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>35,36,34</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="238">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="108">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>13</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the passions that you have and lose track of time while doing?
+: No, I don’t have any clear passions.
+
+; Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call
+
+them passions.
+; Yes, I know what I’m passionate about and why they give me joy.
+
+</questionsummary>
+              <rightanswer>Yes, I know what I’m passionate about and why they give me joy.
+
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="225">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>39,38,37</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="239">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="109">
+              <slot>10</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>15</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you state a list of goals and ambitions you have for yourself?
+
+: Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+; No, I don’t really have any driving goals or ambitions in my life.
+
+; Somewhat. I have a few goals and ambitions, although they might not be the most
+
+defined.
+</questionsummary>
+              <rightanswer>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="226">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>43,45,44</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="240">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="110">
+              <slot>11</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>17</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you describe the environment you thrive in the most?
+
+: Somewhat. I know certain things that I would want, but I can’t fully describe the
+
+exact environment that I thrive in.
+; Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+; No, I don’t know what environment works best for me. I just try to make it work
+
+</questionsummary>
+              <rightanswer>Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="227">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>50,49,51</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="241">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="111">
+              <slot>12</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>20</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of personal strengths and how they manifest themselves in your life?
+: Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+; No, I don’t know what my strengths are. I just try to do my best.
+
+; Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+</questionsummary>
+              <rightanswer>Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="228">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>58,60,59</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="242">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="112">
+              <slot>13</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>22</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of shortcomings and how they manifest themselves in your life?
+: Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+; Somewhat. I mostly know what my weaknesses are, although I don’t have an
+
+exact list. I try to avoid them, but I don’t really know how they hold me back.
+; No, I don’t know what my shortcomings are.
+
+</questionsummary>
+              <rightanswer>Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1680414883</timemodified>
+              <steps>
+                <step id="229">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414647</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>64,65,66</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="243">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680414883</timecreated>
+                  <userid>7</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="13">
+        <userid>12</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>13</uniqueid>
+        <layout>1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0</layout>
+        <currentpage>1</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1680699849</timestart>
+        <timefinish>1684126980</timefinish>
+        <timemodified>1692705399</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>0.00000</sumgrades>
+        <gradednotificationsenttime>1684126980</gradednotificationsenttime>
+        <question_usage id="13">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="153">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>3</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the behaviours that you are doing at all times?
+
+: No, I rarely am aware of what my body or mind is doing.
+
+; Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+; Sometimes. I’m usually aware of what I’m doing, although at times, I get caught
+
+up in something or don’t realize what I’m doing.
+</questionsummary>
+              <rightanswer>Yes, I’m always intentional with my behaviors and can name what I’m taking part
+
+in at all times.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="341">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>9,7,8</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6096">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="154">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>4</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotions that you are feeling at all times?
+
+: Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a
+
+few moments to recognize it, and strong emotions sometimes catch me off-guard.
+; No, I rarely think about what emotion I’m feeling. I just feel something and act
+
+accordingly.
+; Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</questionsummary>
+              <rightanswer>Yes, I can always identify and name the emotion I’m feeling at any given moment.
+
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="342">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>11,12,10</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6097">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="155">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>5</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify what causes a shift to negative emotions?
+
+: Sometimes. I can usually identify what caused a shift in emotions, although it
+
+takes a little while for me to catch on.
+; Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+; No, I rarely know what specifically causes me to shift to negative emotions. All of a
+
+sudden, I’m no longer happy and I don’t know why.
+</questionsummary>
+              <rightanswer>Yes, I can always identify what causes me to shift to negative emotions, whether it
+
+be an event, person, or recurring trigger.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="343">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>14,13,15</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6098">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="156">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>7</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the emotional patterns you experience the most?
+
+: No, I have no idea what emotional patterns I repeat. I have emotions, but I can’t
+
+name any trends with when or why they happen.
+; Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+; Somewhat. I generally know what I have a tendency to do, but it’s not always
+
+consistent or recognizable.
+</questionsummary>
+              <rightanswer>Yes, I can list my standard emotional patterns right now, including what they are,
+
+what causes them, and what effect they have on my life.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="344">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>21,19,20</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6099">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="157">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>8</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest fear triggers?
+
+: Somewhat. I can tell you what I’m most scared of, but I don’t fully know how it
+
+affects my life and daily actions.
+; No, I have no idea what a fear trigger even is or if I have one.
+
+; Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</questionsummary>
+              <rightanswer>Yes, I’m aware of my deepest fears and what triggers these fears in my everyday
+
+life. I understand how pervasive these fears are in my thoughts and actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="345">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>23,24,22</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6100">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="158">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>9</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name your deepest shame triggers?
+
+: Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+; Somewhat. I can tell you what I’m most ashamed of, but I don’t fully know how it
+
+affects my life and daily actions.
+; No, I have no idea what a shame trigger even is or if I have one.
+
+</questionsummary>
+              <rightanswer>Yes, I know the things that give me the most shame and what triggers this shame
+
+in my everyday life. I understand how pervasive this shame is in my thoughts and
+
+actions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="346">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>25,26,27</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6101">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="159">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>10</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the principles and values you believe in the most?
+
+: Somewhat. I can name a few principles and qualities that are most important to
+
+me, but I haven’t given this list a lot of thought.
+; Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+; No, I have no idea what values I personally believe in the most.
+
+</questionsummary>
+              <rightanswer>Yes, I can list my guiding principles and core values right now. I know how to
+
+distinguish between what I care about and the outside influence of others.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="347">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>29,28,30</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6102">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="160">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>12</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>How much do you consider these principles when making decisions?
+: Not at all. I live my life without ever giving a thought to any principles.
+
+; A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+; Somewhat. I know what my principles are but don’t really know when they come
+
+into effect in my life.
+</questionsummary>
+              <rightanswer>A lot. Not only do I know what these principles are, but I design my life and
+
+decision-making around them. They give clarity to my decisions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="348">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>36,34,35</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6103">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="161">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>13</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you name the passions that you have and lose track of time while doing?
+: Yes, I know what I’m passionate about and why they give me joy.
+
+; No, I don’t have any clear passions.
+
+; Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call
+
+them passions.
+</questionsummary>
+              <rightanswer>Yes, I know what I’m passionate about and why they give me joy.
+
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="349">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>37,39,38</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6104">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="162">
+              <slot>10</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>15</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you state a list of goals and ambitions you have for yourself?
+
+: No, I don’t really have any driving goals or ambitions in my life.
+
+; Somewhat. I have a few goals and ambitions, although they might not be the most
+
+defined.
+; Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</questionsummary>
+              <rightanswer>Yes, I can state a list of goals right now that include both short-term and long-term
+
+goals. I understand what I want out of life and can express these ambitions.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="350">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>45,44,43</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6105">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="163">
+              <slot>11</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>17</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you describe the environment you thrive in the most?
+
+: Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+; No, I don’t know what environment works best for me. I just try to make it work
+
+; Somewhat. I know certain things that I would want, but I can’t fully describe the
+
+exact environment that I thrive in.
+</questionsummary>
+              <rightanswer>Yes, I can describe the ideal environment that I need to be happy and be
+
+successful, including the pace, energy, and structure that I thrive in.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="351">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>49,51,50</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6106">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="164">
+              <slot>12</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>20</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of personal strengths and how they manifest themselves in your life?
+: Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+; No, I don’t know what my strengths are. I just try to do my best.
+
+; Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly
+
+how I incorporate these strengths into my life.
+</questionsummary>
+              <rightanswer>Yes, I can list all of my strengths right now, as well as where they fit into my life
+
+and how I use them to find success.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="352">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>58,60,59</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6107">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="165">
+              <slot>13</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>22</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Can you identify a list of shortcomings and how they manifest themselves in your life?
+: Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+; No, I don’t know what my shortcomings are.
+
+; Somewhat. I mostly know what my weaknesses are, although I don’t have an
+
+exact list. I try to avoid them, but I don’t really know how they hold me back.
+</questionsummary>
+              <rightanswer>Yes, I can list all of my shortcomings right now, as well as how they affect my life
+
+and what I need to do to overcome them.
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="353">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1680699849</timecreated>
+                  <userid>12</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>64,66,65</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6108">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

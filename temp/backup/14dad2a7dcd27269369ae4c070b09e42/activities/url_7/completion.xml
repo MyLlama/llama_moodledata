@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<completions>
+  <completion id="8">
+    <userid>8</userid>
+    <completionstate>1</completionstate>
+    <timemodified>1680408829</timemodified>
+  </completion>
+  <completion id="16">
+    <userid>9</userid>
+    <completionstate>1</completionstate>
+    <timemodified>1680409708</timemodified>
+  </completion>
+  <completion id="21">
+    <userid>7</userid>
+    <completionstate>1</completionstate>
+    <timemodified>1680415325</timemodified>
+  </completion>
+  <completion id="24">
+    <userid>4</userid>
+    <completionstate>1</completionstate>
+    <timemodified>1680415175</timemodified>
+  </completion>
+  <completionviews>
+    <completionview id="1">
+      <userid>3</userid>
+      <timecreated>1680369010</timecreated>
+    </completionview>
+    <completionview id="3">
+      <userid>8</userid>
+      <timecreated>1680408644</timecreated>
+    </completionview>
+    <completionview id="4">
+      <userid>2</userid>
+      <timecreated>1680408685</timecreated>
+    </completionview>
+  </completionviews>
+</completions>

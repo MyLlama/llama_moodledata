@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="591">
+    <contenthash>dba5b983efa42caad75e0ee81ad68cef82267b5d</contenthash>
+    <contextid>98</contextid>
+    <component>course</component>
+    <filearea>overviewfiles</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Demo Llama.jpg</filename>
+    <userid>6</userid>
+    <filesize>62696</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1685601652</timecreated>
+    <timemodified>1685601675</timemodified>
+    <source>Topic - Mindfulness.jpg</source>
+    <author>Srinivas Vupadrishta</author>
+    <license>cc-sa</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="592">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>98</contextid>
+    <component>course</component>
+    <filearea>overviewfiles</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>6</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1685601652</timecreated>
+    <timemodified>1691729060</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

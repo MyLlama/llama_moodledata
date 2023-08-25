@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="7">
+    <name>top</name>
+    <contextid>1</contextid>
+    <contextlevel>10</contextlevel>
+    <contextinstanceid>0</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401121045+yniyLE</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="8">
+    <name>Default for System</name>
+    <contextid>1</contextid>
+    <contextlevel>10</contextlevel>
+    <contextinstanceid>0</contextinstanceid>
+    <info>The default category for questions shared in context 'System'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401121045+994R73</stamp>
+    <parent>7</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+      <question_bank_entry id="2">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="2">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="2">
+                <parent>0</parent>
+                <name>1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name the behaviours that you are doing at all times?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401155718+NK4OUh</stamp>
+                <timecreated>1680364638</timecreated>
+                <timemodified>1680364638</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="4">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I’m always intentional with my behaviors and can name what I’m taking part&lt;/p&gt;&lt;p dir="ltr"&gt;in at all times.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="5">
+                      <answertext>&lt;p dir="ltr"&gt;Sometimes. I’m usually aware of what I’m doing, although at times, I get caught&lt;/p&gt;&lt;p dir="ltr"&gt;up in something or don’t realize what I’m doing.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="6">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I rarely am aware of what my body or mind is doing.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="2">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="3">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3">
+                <parent>0</parent>
+                <name>1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name the behaviours that you are doing at all times?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401155731+6dJ6aY</stamp>
+                <timecreated>1680364651</timecreated>
+                <timemodified>1680364651</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="7">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I’m always intentional with my behaviors and can name what I’m taking part&lt;/p&gt;&lt;p dir="ltr"&gt;in at all times.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="8">
+                      <answertext>&lt;p dir="ltr"&gt;Sometimes. I’m usually aware of what I’m doing, although at times, I get caught&lt;/p&gt;&lt;p dir="ltr"&gt;up in something or don’t realize what I’m doing.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I rarely am aware of what my body or mind is doing.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="3">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="3">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="4">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="4">
+                <parent>0</parent>
+                <name>2</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name the emotions that you are feeling at all times?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160005+gXPin4</stamp>
+                <timecreated>1680364805</timecreated>
+                <timemodified>1680364805</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="10">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I can always identify and name the emotion I’m feeling at any given moment.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="11">
+                      <answertext>&lt;p dir="ltr"&gt;Sometimes. I’m usually aware of what emotion I’m feeling. However, it takes me a&lt;/p&gt;&lt;p dir="ltr"&gt;few moments to recognize it, and strong emotions sometimes catch me off-guard.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="12">
+                      <answertext>&lt;p dir="ltr"&gt;No, I rarely think about what emotion I’m feeling. I just feel something and act&lt;/p&gt;&lt;p dir="ltr"&gt;accordingly.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="4">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="4">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="5">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="5">
+                <parent>0</parent>
+                <name>3</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you identify what causes a shift to negative emotions?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160152+iOF2s7</stamp>
+                <timecreated>1680364912</timecreated>
+                <timemodified>1680364912</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="13">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can always identify what causes me to shift to negative emotions, whether it&lt;/p&gt;&lt;p dir="ltr"&gt;be an event, person, or recurring trigger.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="14">
+                      <answertext>&lt;p dir="ltr"&gt;Sometimes. I can usually identify what caused a shift in emotions, although it&lt;/p&gt;&lt;p dir="ltr"&gt;takes a little while for me to catch on.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="15">
+                      <answertext>&lt;p dir="ltr"&gt;No, I rarely know what specifically causes me to shift to negative emotions. All of a&lt;/p&gt;&lt;p dir="ltr"&gt;sudden, I’m no longer happy and I don’t know why.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="5">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="5">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="6">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="6">
+                <parent>0</parent>
+                <name>20</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you evaluate how much of an impact cultural narratives have&lt;br&gt;on you, and can you identify where they influence your thinking?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160246+w6mbeQ</stamp>
+                <timecreated>1680364966</timecreated>
+                <timemodified>1680364966</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="16">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I’m aware of the cultural narratives that exist and how they influence my&lt;br&gt;thinking and perspective. I can distinguish between what I know to be true and what I&lt;br&gt;feel like I should do, as told by society.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="17">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Sometimes. I know that cultural narratives exist and can sometimes recognize&lt;br&gt;where the influence my thinking. That being said, I imagine there are aspects of&lt;br&gt;society that affect me that I don’t realize.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="18">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t know what “cultural narrative” means, let alone how it affects me.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="6">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="6">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="7">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="7">
+                <parent>0</parent>
+                <name>4</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name the emotional patterns you experience the most?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160331+44M35s</stamp>
+                <timecreated>1680365011</timecreated>
+                <timemodified>1680365011</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="19">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can list my standard emotional patterns right now, including what they are,&lt;/p&gt;&lt;p dir="ltr"&gt;what causes them, and what effect they have on my life.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="20">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I generally know what I have a tendency to do, but it’s not always&lt;/p&gt;&lt;p dir="ltr"&gt;consistent or recognizable.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="21">
+                      <answertext>&lt;p dir="ltr"&gt;No, I have no idea what emotional patterns I repeat. I have emotions, but I can’t&lt;/p&gt;&lt;p dir="ltr"&gt;name any trends with when or why they happen.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="7">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="7">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="8">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="8">
+                <parent>0</parent>
+                <name>5</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name your deepest fear triggers?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160452+V9TarR</stamp>
+                <timecreated>1680365092</timecreated>
+                <timemodified>1680365092</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="22">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I’m aware of my deepest fears and what triggers these fears in my everyday&lt;/p&gt;&lt;p dir="ltr"&gt;life. I understand how pervasive these fears are in my thoughts and actions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="23">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I can tell you what I’m most scared of, but I don’t fully know how it&lt;/p&gt;&lt;p dir="ltr"&gt;affects my life and daily actions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="24">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I have no idea what a fear trigger even is or if I have one.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="8">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="8">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="9">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="9">
+                <parent>0</parent>
+                <name>6</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name your deepest shame triggers?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160624+M5MlGF</stamp>
+                <timecreated>1680365184</timecreated>
+                <timemodified>1680365184</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="25">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I know the things that give me the most shame and what triggers this shame&lt;/p&gt;&lt;p dir="ltr"&gt;in my everyday life. I understand how pervasive this shame is in my thoughts and&lt;/p&gt;&lt;p dir="ltr"&gt;actions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="26">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I can tell you what I’m most ashamed of, but I don’t fully know how it&lt;/p&gt;&lt;p dir="ltr"&gt;affects my life and daily actions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="27">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I have no idea what a shame trigger even is or if I have one.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="9">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="9">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="10">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="10">
+                <parent>0</parent>
+                <name>7</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name the principles and values you believe in the most?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160737+w6RVUN</stamp>
+                <timecreated>1680365257</timecreated>
+                <timemodified>1680365257</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="28">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can list my guiding principles and core values right now. I know how to&lt;/p&gt;&lt;p dir="ltr"&gt;distinguish between what I care about and the outside influence of others.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="29">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I can name a few principles and qualities that are most important to&lt;/p&gt;&lt;p dir="ltr"&gt;me, but I haven’t given this list a lot of thought.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="30">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I have no idea what values I personally believe in the most.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="10">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="10">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="11">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="11">
+                <parent>0</parent>
+                <name>19</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name your primary coping mechanisms, and what&lt;br&gt;triggers them?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160920+15Er3O</stamp>
+                <timecreated>1680365360</timecreated>
+                <timemodified>1680365360</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="31">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I can list my primary coping mechanisms right now and what situations&lt;br&gt;trigger them. I understand how they developed in my past and can evaluate whether&lt;br&gt;they still serve me now.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="32">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Sometimes. I know what coping mechanisms I generally use when trying to&lt;br&gt;defend myself, but I can’t always recognize what triggers them.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="33">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I have no idea what coping mechanisms I default to or why.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="11">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="11">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="12">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="12">
+                <parent>0</parent>
+                <name>8</name>
+                <questiontext>&lt;p dir="ltr"&gt;How much do you consider these principles when making&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;decisions?&lt;/span&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401160936+E9BBvI</stamp>
+                <timecreated>1680365376</timecreated>
+                <timemodified>1680365376</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="34">
+                      <answertext>&lt;p dir="ltr"&gt;A lot. Not only do I know what these principles are, but I design my life and&lt;/p&gt;&lt;p dir="ltr"&gt;decision-making around them. They give clarity to my decisions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="35">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I know what my principles are but don’t really know when they come&lt;/p&gt;&lt;p dir="ltr"&gt;into effect in my life.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="36">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Not at all. I live my life without ever giving a thought to any principles.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="12">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="12">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="13">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="13">
+                <parent>0</parent>
+                <name>9</name>
+                <questiontext>&lt;p dir="ltr"&gt;Can you name the passions that you have and lose track of time&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;while doing?&lt;/span&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161043+SHGZ8C</stamp>
+                <timecreated>1680365443</timecreated>
+                <timemodified>1680365443</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="37">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I know what I’m passionate about and why they give me joy.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="38">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I can list things that I enjoy doing, although I wouldn’t necessarily call&lt;/p&gt;&lt;p dir="ltr"&gt;them passions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="39">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t have any clear passions.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="13">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="13">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="14">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="14">
+                <parent>0</parent>
+                <name>18</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you identify where in your life biases and natural human&lt;br&gt;tendencies play a role in your thinking?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161046+Xz3l0B</stamp>
+                <timecreated>1680365446</timecreated>
+                <timemodified>1680365446</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="40">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;a) Yes, I’m aware of where my thoughts and actions are influenced by biases and&lt;br&gt;natural human tendencies. I can identify and name when these factors are getting in&lt;br&gt;the way of my self-awareness and mindset.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="41">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;b) Sometimes. I understand that I’m influenced by human nature, but I don’t always&lt;br&gt;know what these influences are or how they affect me.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="42">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;c) No, I have no idea about natural human tendencies or how they get in the way of&lt;br&gt;self-awareness.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="14">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="14">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="15">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="15">
+                <parent>0</parent>
+                <name>10</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you state a list of goals and ambitions you have for yourself?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161154+7SJc2T</stamp>
+                <timecreated>1680365514</timecreated>
+                <timemodified>1680365514</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="43">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can state a list of goals right now that include both short-term and long-term&lt;/p&gt;&lt;p dir="ltr"&gt;goals. I understand what I want out of life and can express these ambitions.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="44">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I have a few goals and ambitions, although they might not be the most&lt;/p&gt;&lt;p dir="ltr"&gt;defined.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="45">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t really have any driving goals or ambitions in my life.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0500000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="15">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="15">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="16">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="16">
+                <parent>0</parent>
+                <name>17</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you accurately describe the impact you have on others?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161206+G8Z6Oi</stamp>
+                <timecreated>1680365526</timecreated>
+                <timemodified>1680365526</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="46">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;a) Yes, I know the impact I have on others, including what they think of me, how my&lt;br&gt;words and actions affect them, and what my role is in their life.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="47">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;b) Somewhat. I know what impact I have on others in general, although I couldn’t get&lt;br&gt;into the specifics.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="48">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;c) No, I don’t know how my words and actions affect others.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="16">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="16">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="17">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="17">
+                <parent>0</parent>
+                <name>11</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you describe the environment you thrive in the most?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161405+yhvmeh</stamp>
+                <timecreated>1680365645</timecreated>
+                <timemodified>1680365645</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="49">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can describe the ideal environment that I need to be happy and be&lt;/p&gt;&lt;p dir="ltr"&gt;successful, including the pace, energy, and structure that I thrive in.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="50">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I know certain things that I would want, but I can’t fully describe the&lt;/p&gt;&lt;p dir="ltr"&gt;exact environment that I thrive in.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="51">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t know what environment works best for me. I just try to make it work&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="17">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="17">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="18">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="18">
+                <parent>0</parent>
+                <name>16</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you list the relationships in your life and which ones meet&lt;br&gt;your needs?&lt;br&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161429+5j79UK</stamp>
+                <timecreated>1680365669</timecreated>
+                <timemodified>1680365669</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="52">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I can list the relationships I have in my life right now and evaluate what they&lt;br&gt;give me. I know what I need to feel a strong connection.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="53">
+                      <answertext>Somewhat. I can list the people that are in my life, as well as my most important&lt;br&gt;relationships, but my connections aren’t always perfect.</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="54">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t give much thought to the people in my life and which relationships meet&lt;br&gt;my needs.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="18">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="18">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="19">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="19">
+                <parent>0</parent>
+                <name>15</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you name what you need in your relationships to feel&lt;br&gt;fulfilled?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161534+0vpFw7</stamp>
+                <timecreated>1680365734</timecreated>
+                <timemodified>1680365734</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="55">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I can name exactly what I need in my life in my relationships to create a&lt;br&gt;sense of belonging and feel fulfilled. Additionally, I’m able to express these needs.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="56">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Somewhat. I know what I need from others, although I might not know specifically&lt;br&gt;what I need from each person or in different situations.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="57">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t know what I need from my relationships to feel fulfilled.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="19">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="19">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="20">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="20">
+                <parent>0</parent>
+                <name>12</name>
+                <questiontext>&lt;p dir="ltr"&gt;Can you identify a list of personal strengths and how they&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;manifest themselves in your life?&lt;/span&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161535+Wrt6CJ</stamp>
+                <timecreated>1680365735</timecreated>
+                <timemodified>1680365735</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="58">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can list all of my strengths right now, as well as where they fit into my life&lt;/p&gt;&lt;p dir="ltr"&gt;and how I use them to find success.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="59">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I mostly know what I’m good at, although I couldn’t tell you exactly&lt;/p&gt;&lt;p dir="ltr"&gt;how I incorporate these strengths into my life.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="60">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t know what my strengths are. I just try to do my best.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="20">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="20">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="21">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="21">
+                <parent>0</parent>
+                <name>14</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Can you describe your typical reaction to new information,&lt;br&gt;whether it be positive or negative?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161637+86VfGs</stamp>
+                <timecreated>1680365797</timecreated>
+                <timemodified>1680365797</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="61">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Yes, I can tell you right now how I usually react to new information. I understand&lt;br&gt;my natural tendencies with both what emotions I feel and what impulses I have.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="62">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Somewhat. I can generally describe how I react to positive and negative news, but&lt;br&gt;I’m not fully aware of my emotions and thoughts.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="63">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I just react in the moment and don’t know of any patterns.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="21">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="21">
+        <questioncategoryid>8</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="22">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="22">
+                <parent>0</parent>
+                <name>13</name>
+                <questiontext>&lt;p dir="ltr"&gt;Can you identify a list of shortcomings and how they manifest&amp;nbsp;&lt;span style="font-size: 1rem;"&gt;themselves in your life?&lt;/span&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230401161713+NtSbcr</stamp>
+                <timecreated>1680365833</timecreated>
+                <timemodified>1680365833</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="64">
+                      <answertext>&lt;p dir="ltr"&gt;Yes, I can list all of my shortcomings right now, as well as how they affect my life&lt;/p&gt;&lt;p dir="ltr"&gt;and what I need to do to overcome them.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="65">
+                      <answertext>&lt;p dir="ltr"&gt;Somewhat. I mostly know what my weaknesses are, although I don’t have an&lt;/p&gt;&lt;p dir="ltr"&gt;exact list. I try to avoid them, but I don’t really know how they hold me back.&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.5000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="66">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;No, I don’t know what my shortcomings are.&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="22">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="9">
+    <name>top</name>
+    <contextid>27</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>6</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401155453+tiCVBh</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="10">
+    <name>Default for Pre Assessment</name>
+    <contextid>27</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>6</contextinstanceid>
+    <info>The default category for questions shared in context 'Pre Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401155453+aCfCK1</stamp>
+    <parent>9</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="11">
+    <name>top</name>
+    <contextid>25</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>4</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401155453+qhSzIm</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="12">
+    <name>Default for SADemo</name>
+    <contextid>25</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>4</contextinstanceid>
+    <info>The default category for questions shared in context 'SADemo'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401155453+BEW4Ta</stamp>
+    <parent>11</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="13">
+    <name>top</name>
+    <contextid>34</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>13</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401164324+leGMlj</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="14">
+    <name>Default for Post Assessment</name>
+    <contextid>34</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>13</contextinstanceid>
+    <info>The default category for questions shared in context 'Post Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230401164324+L01RvP</stamp>
+    <parent>13</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+</question_categories>

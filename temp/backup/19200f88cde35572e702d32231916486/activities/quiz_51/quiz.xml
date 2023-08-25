@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="13" moduleid="51" modulename="quiz" contextid="128">
+  <quiz id="13">
+    <name>Assessment 1</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Demo assessment 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>1685651580</timeopen>
+    <timeclose>1685737980</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>65536</reviewattempt>
+    <reviewcorrectness>0</reviewcorrectness>
+    <reviewmarks>0</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>0</reviewoverallfeedback>
+    <questionsperpage>0</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>14.00000</sumgrades>
+    <grade>5.00000</grade>
+    <timecreated>1685651680</timecreated>
+    <timemodified>1685651680</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="192">
+        <quizid>13</quizid>
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="192">
+          <usingcontextid>128</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>82</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="193">
+        <quizid>13</quizid>
+        <slot>2</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>10.0000000</maxmark>
+        <question_reference id="193">
+          <usingcontextid>128</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>83</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="194">
+        <quizid>13</quizid>
+        <slot>3</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="194">
+          <usingcontextid>128</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>84</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="195">
+        <quizid>13</quizid>
+        <slot>4</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="195">
+          <usingcontextid>128</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>85</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="196">
+        <quizid>13</quizid>
+        <slot>5</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="196">
+          <usingcontextid>128</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>86</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="13">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="169">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>5.50000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="26">
+        <userid>18</userid>
+        <gradeval>3.21429</gradeval>
+        <timemodified>1685689919</timemodified>
+      </grade>
+      <grade id="27">
+        <userid>27</userid>
+        <gradeval>1.78571</gradeval>
+        <timemodified>1692705399</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="47">
+        <userid>18</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>47</uniqueid>
+        <layout>1,2,3,4,5,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1685651784</timestart>
+        <timefinish>1685651814</timefinish>
+        <timemodified>1685689919</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>9.00000</sumgrades>
+        <gradednotificationsenttime>1685651814</gradednotificationsenttime>
+        <question_usage id="47">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="598">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>85</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I am satisfied with my job (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Strongly Agree
+</responsesummary>
+              <timemodified>1685651814</timemodified>
+              <steps>
+                <step id="1417">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651784</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>252,253,254,255,256</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1422">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651807</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1427">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1685651814</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="599">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>86</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I more often have positive than negative emotional experiences. (Stress / Wellbeing)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Neutral
+</responsesummary>
+              <timemodified>1685651814</timemodified>
+              <steps>
+                <step id="1418">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651784</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>257,258,259,260,261</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1423">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651807</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1428">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1685651814</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="600">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>87</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I lead a meaningful life. (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Agree
+</responsesummary>
+              <timemodified>1685651814</timemodified>
+              <steps>
+                <step id="1419">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651784</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>262,263,264,265,266</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1424">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651807</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1429">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1685651814</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="601">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>88</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Most days I take time to prioritize what's most important. (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Disagree
+</responsesummary>
+              <timemodified>1685651814</timemodified>
+              <steps>
+                <step id="1420">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651784</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>267,268,269,270,271</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1425">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651807</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1430">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.4000000</fraction>
+                  <timecreated>1685651814</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="602">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>89</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I am able to pause before reacting. (Self Management)
+
+: Never
+; Rarely
+; Sometimes
+; Often
+; Very Often
+</questionsummary>
+              <rightanswer>Very Often
+</rightanswer>
+              <responsesummary>Often
+</responsesummary>
+              <timemodified>1685651814</timemodified>
+              <steps>
+                <step id="1421">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651784</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>272,273,274,275,276</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1426">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685651807</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1431">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1685651814</timecreated>
+                  <userid>18</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="50">
+        <userid>27</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>51</uniqueid>
+        <layout>1,2,3,4,5,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1685689015</timestart>
+        <timefinish>1685689030</timefinish>
+        <timemodified>1685689919</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>5.00000</sumgrades>
+        <gradednotificationsenttime>1685689030</gradednotificationsenttime>
+        <question_usage id="51">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="614">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>118</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I am satisfied with my job (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Strongly Disagree
+</responsesummary>
+              <timemodified>1685689030</timemodified>
+              <steps>
+                <step id="1458">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689015</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>417,418,419,420,421</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1463">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689026</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1467">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.2000000</fraction>
+                  <timecreated>1685689030</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="615">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>86</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I more often have positive than negative emotional experiences. (Stress / Wellbeing)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Disagree
+</responsesummary>
+              <timemodified>1685689030</timemodified>
+              <steps>
+                <step id="1459">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689015</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>257,258,259,260,261</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1464">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689026</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1468">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.4000000</fraction>
+                  <timecreated>1685689030</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="616">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>87</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I lead a meaningful life. (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1685689030</timemodified>
+              <steps>
+                <step id="1460">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689015</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>262,263,264,265,266</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1469">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689030</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="617">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>88</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Most days I take time to prioritize what's most important. (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>Disagree
+</responsesummary>
+              <timemodified>1685689030</timemodified>
+              <steps>
+                <step id="1461">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689015</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>267,268,269,270,271</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1465">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689026</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1470">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.4000000</fraction>
+                  <timecreated>1685689030</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="618">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>89</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I am able to pause before reacting. (Self Management)
+
+: Never
+; Rarely
+; Sometimes
+; Often
+; Very Often
+</questionsummary>
+              <rightanswer>Very Often
+</rightanswer>
+              <responsesummary>Rarely
+</responsesummary>
+              <timemodified>1685689030</timemodified>
+              <steps>
+                <step id="1462">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689015</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>272,273,274,275,276</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1466">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689026</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="1471">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.4000000</fraction>
+                  <timecreated>1685689030</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="51">
+        <userid>27</userid>
+        <attemptnum>2</attemptnum>
+        <uniqueid>52</uniqueid>
+        <layout>1,2,3,4,5,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1685689100</timestart>
+        <timefinish>1685737980</timefinish>
+        <timemodified>1692705399</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>0.00000</sumgrades>
+        <gradednotificationsenttime>1685737980</gradednotificationsenttime>
+        <question_usage id="52">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="619">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>118</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I am satisfied with my job (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="1472">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689100</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>417,418,419,420,421</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6174">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="620">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>86</questionid>
+              <variant>1</variant>
+              <maxmark>10.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I more often have positive than negative emotional experiences. (Stress / Wellbeing)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="1473">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689100</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>257,258,259,260,261</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6175">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="621">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>87</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I lead a meaningful life. (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="1474">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689100</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>262,263,264,265,266</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6176">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="622">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>88</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>Most days I take time to prioritize what's most important. (Motivation)
+
+: Strongly Disagree
+; Disagree
+; Neutral
+; Agree
+; Strongly Agree
+</questionsummary>
+              <rightanswer>Strongly Agree
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="1475">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689100</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>267,268,269,270,271</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6177">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="623">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>89</questionid>
+              <variant>1</variant>
+              <maxmark>1.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I am able to pause before reacting. (Self Management)
+
+: Never
+; Rarely
+; Sometimes
+; Often
+; Very Often
+</questionsummary>
+              <rightanswer>Very Often
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1692705399</timemodified>
+              <steps>
+                <step id="1476">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1685689100</timecreated>
+                  <userid>27</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>272,273,274,275,276</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="6178">
+                  <sequencenumber>1</sequencenumber>
+                  <state>gaveup</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1692705399</timecreated>
+                  <userid>2</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

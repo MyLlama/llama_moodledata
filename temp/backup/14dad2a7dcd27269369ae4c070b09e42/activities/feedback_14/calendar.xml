@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="41">
+    <name>Course Feedback opens</name>
+    <description>&lt;div class="no-overflow"&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Hello folks,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Feedback helps us improve. This will take you couple of minutes to complete and we encourage you to do so!&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Warmly,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Team Llama&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</description>
+    <format>1</format>
+    <courseid>4</courseid>
+    <groupid>0</groupid>
+    <userid>6</userid>
+    <repeatid>0</repeatid>
+    <modulename>feedback</modulename>
+    <instance>1</instance>
+    <type>0</type>
+    <eventtype>open</eventtype>
+    <timestart>1683091020</timestart>
+    <timeduration>0</timeduration>
+    <timesort>1683091020</timesort>
+    <visible>1</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1683523069</timemodified>
+    <priority>$@NULL@$</priority>
+    <location>$@NULL@$</location>
+  </event>
+</events>

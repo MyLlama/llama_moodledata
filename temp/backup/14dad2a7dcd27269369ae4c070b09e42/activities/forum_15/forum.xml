@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="15" modulename="forum" contextid="39">
+  <forum id="4">
+    <type>qanda</type>
+    <name>Self Awareness Forum</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Hello folks!&lt;br&gt;&lt;br&gt;This forum is for participants to share views as well have constructive discussions on the topic - Self Awareness.&lt;br&gt;&lt;br&gt;Regards,&lt;br&gt;Team Llama&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>3</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1685011314</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+      <discussion id="3">
+        <name>Course work Efforts Needed</name>
+        <firstpost>3</firstpost>
+        <userid>8</userid>
+        <groupid>-1</groupid>
+        <assessed>0</assessed>
+        <timemodified>1680409660</timemodified>
+        <usermodified>9</usermodified>
+        <timestart>0</timestart>
+        <timeend>0</timeend>
+        <pinned>0</pinned>
+        <timelocked>0</timelocked>
+        <posts>
+          <post id="3">
+            <parent>0</parent>
+            <userid>8</userid>
+            <created>1680408543</created>
+            <modified>1680408543</modified>
+            <mailed>0</mailed>
+            <subject>Course work Efforts Needed</subject>
+            <message>&lt;p dir="ltr" style="text-align:left;"&gt;Hey Team, can any one suggest me how many hours are needed per week to complete this course and how many such weeks will be required?&lt;br /&gt;&lt;br /&gt;TIA&lt;br /&gt;John&lt;br /&gt;&lt;/p&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+          <post id="5">
+            <parent>3</parent>
+            <userid>9</userid>
+            <created>1680409660</created>
+            <modified>1680409660</modified>
+            <mailed>0</mailed>
+            <subject>Re: Course work Efforts Needed</subject>
+            <message>&lt;div class="text_to_html"&gt;Same question, did you get any answers?&lt;/div&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+        </posts>
+        <discussion_subs>
+        </discussion_subs>
+      </discussion>
+      <discussion id="4">
+        <name>Any prerequisite ?</name>
+        <firstpost>4</firstpost>
+        <userid>9</userid>
+        <groupid>-1</groupid>
+        <assessed>0</assessed>
+        <timemodified>1680409626</timemodified>
+        <usermodified>9</usermodified>
+        <timestart>0</timestart>
+        <timeend>0</timeend>
+        <pinned>0</pinned>
+        <timelocked>0</timelocked>
+        <posts>
+          <post id="4">
+            <parent>0</parent>
+            <userid>9</userid>
+            <created>1680409626</created>
+            <modified>1680409626</modified>
+            <mailed>0</mailed>
+            <subject>Any prerequisite ?</subject>
+            <message>&lt;p dir="ltr" style="text-align:left;"&gt;Hey Team,&lt;br /&gt;&lt;br /&gt;Is there any &lt;span&gt;prerequisite for this course?&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align:left;"&gt;&lt;span&gt;-foobar&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+        </posts>
+        <discussion_subs>
+        </discussion_subs>
+      </discussion>
+    </discussions>
+    <subscriptions>
+      <subscription id="1">
+        <userid>9</userid>
+      </subscription>
+      <subscription id="2">
+        <userid>8</userid>
+      </subscription>
+      <subscription id="3">
+        <userid>5</userid>
+      </subscription>
+      <subscription id="4">
+        <userid>3</userid>
+      </subscription>
+      <subscription id="5">
+        <userid>4</userid>
+      </subscription>
+      <subscription id="6">
+        <userid>6</userid>
+      </subscription>
+      <subscription id="7">
+        <userid>7</userid>
+      </subscription>
+      <subscription id="19">
+        <userid>11</userid>
+      </subscription>
+      <subscription id="20">
+        <userid>12</userid>
+      </subscription>
+      <subscription id="21">
+        <userid>10</userid>
+      </subscription>
+      <subscription id="22">
+        <userid>13</userid>
+      </subscription>
+      <subscription id="39">
+        <userid>14</userid>
+      </subscription>
+      <subscription id="40">
+        <userid>15</userid>
+      </subscription>
+      <subscription id="41">
+        <userid>16</userid>
+      </subscription>
+      <subscription id="42">
+        <userid>17</userid>
+      </subscription>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="33">
+    <name>top</name>
+    <contextid>100</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>47</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601064700+rGoRpN</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="34">
+    <name>Default for Pre assessment</name>
+    <contextid>100</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>47</contextinstanceid>
+    <info>The default category for questions shared in context 'Pre assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601064700+xLvRAF</stamp>
+    <parent>33</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="35">
+    <name>top</name>
+    <contextid>98</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>9</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601064700+cAQ33X</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="36">
+    <name>Default for DCL</name>
+    <contextid>98</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>9</contextinstanceid>
+    <info>The default category for questions shared in context 'DCL'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601064700+ZJbv8U</stamp>
+    <parent>35</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+      <question_bank_entry id="82">
+        <questioncategoryid>36</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="85">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="85">
+                <parent>0</parent>
+                <name>1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;I am satisfied with my job (Motivation)&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>0.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230601065415+pE6gkV</stamp>
+                <timecreated>1685602455</timecreated>
+                <timemodified>1685602455</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="252">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.2000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="253">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.4000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="254">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Neutral&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.6000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="255">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.8000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="256">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="85">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="118">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="118">
+                <parent>0</parent>
+                <name>1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;I am satisfied with my job (Motivation)&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>0.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230602065351+1ZvxLI</stamp>
+                <timecreated>1685688831</timecreated>
+                <timemodified>1685688831</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="417">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.2000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="418">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.4000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="419">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Neutral&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.6000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="420">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.8000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="421">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="118">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="83">
+        <questioncategoryid>36</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="86">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="86">
+                <parent>0</parent>
+                <name>2</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;I more often have positive than negative emotional experiences. (Stress / Wellbeing)&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>0.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230601065601+EeQmiM</stamp>
+                <timecreated>1685602561</timecreated>
+                <timemodified>1685602561</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="257">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.2000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="258">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.4000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="259">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Neutral&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.6000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="260">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.8000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="261">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="86">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="84">
+        <questioncategoryid>36</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="87">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="87">
+                <parent>0</parent>
+                <name>3</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;I lead a meaningful life. (Motivation)&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>0.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230601065739+oyOkRL</stamp>
+                <timecreated>1685602659</timecreated>
+                <timemodified>1685602659</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="262">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.2000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="263">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.4000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="264">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Neutral&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.6000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="265">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.8000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="266">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="87">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="85">
+        <questioncategoryid>36</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="88">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="88">
+                <parent>0</parent>
+                <name>4</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Most days I take time to prioritize what's most important. (Motivation)&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>0.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230601065927+k7r60v</stamp>
+                <timecreated>1685602767</timecreated>
+                <timemodified>1685602767</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="267">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.2000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="268">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Disagree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.4000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="269">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Neutral&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.6000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="270">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.8000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="271">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Strongly Agree&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="88">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="86">
+        <questioncategoryid>36</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>6</ownerid>
+        <question_version>
+          <question_versions id="89">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="89">
+                <parent>0</parent>
+                <name>5</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;I am able to pause before reacting. (Self Management)&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>0.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>learn.myllama.co+230601070054+2C1fvY</stamp>
+                <timecreated>1685602854</timecreated>
+                <timemodified>1685602854</timemodified>
+                <createdby>6</createdby>
+                <modifiedby>6</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="272">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Never&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.2000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="273">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Rarely&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.4000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="274">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Sometimes&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.6000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="275">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Often&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.8000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="276">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Very Often&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="89">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback></correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback></partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback></incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="37">
+    <name>top</name>
+    <contextid>101</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>48</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601070546+ymF6f4</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="38">
+    <name>Default for Post Assessment</name>
+    <contextid>101</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>48</contextinstanceid>
+    <info>The default category for questions shared in context 'Post Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601070546+IhQVcv</stamp>
+    <parent>37</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="43">
+    <name>top</name>
+    <contextid>128</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>51</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601203451+ryYKqe</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="44">
+    <name>Default for Assessment 1</name>
+    <contextid>128</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>51</contextinstanceid>
+    <info>The default category for questions shared in context 'Assessment 1'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.myllama.co+230601203451+c5RhgW</stamp>
+    <parent>43</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+</question_categories>

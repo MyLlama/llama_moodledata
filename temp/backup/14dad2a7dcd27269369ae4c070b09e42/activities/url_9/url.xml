@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="9" modulename="url" contextid="30">
+  <url id="3">
+    <name>Resource 2</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Prof. Valon Murtezaj on Self Awareness&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.youtube.com/watch?v=LH12DmOwWRk</externalurl>
+    <display>3</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1680699660</timemodified>
+  </url>
+</activity>

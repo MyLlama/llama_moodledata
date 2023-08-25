@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="8" modulename="url" contextid="29">
+  <url id="2">
+    <name>Resource 1</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Dan Goldman on Emotional Intelligence &amp;amp; Self Awareness&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.youtube.com/watch?v=STLp8rqrUlg</externalurl>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1686918692</timemodified>
+  </url>
+</activity>

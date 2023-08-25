@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_completion>
+  <course_completions id="1">
+    <userid>4</userid>
+    <course>4</course>
+    <timeenrolled>1680366154</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="2">
+    <userid>5</userid>
+    <course>4</course>
+    <timeenrolled>1680408213</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="3">
+    <userid>6</userid>
+    <course>4</course>
+    <timeenrolled>1680363513</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="4">
+    <userid>7</userid>
+    <course>4</course>
+    <timeenrolled>1680413348</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="5">
+    <userid>8</userid>
+    <course>4</course>
+    <timeenrolled>1680408213</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="6">
+    <userid>9</userid>
+    <course>4</course>
+    <timeenrolled>1680408213</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="7">
+    <userid>10</userid>
+    <course>4</course>
+    <timeenrolled>1680601172</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="8">
+    <userid>11</userid>
+    <course>4</course>
+    <timeenrolled>1680601172</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="9">
+    <userid>12</userid>
+    <course>4</course>
+    <timeenrolled>1680601172</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="10">
+    <userid>14</userid>
+    <course>4</course>
+    <timeenrolled>1683276657</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="11">
+    <userid>15</userid>
+    <course>4</course>
+    <timeenrolled>1683276657</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+  <course_completions id="12">
+    <userid>16</userid>
+    <course>4</course>
+    <timeenrolled>1683276657</timeenrolled>
+    <timestarted>0</timestarted>
+    <timecompleted>$@NULL@$</timecompleted>
+    <reaggregate>1692705364</reaggregate>
+  </course_completions>
+</course_completion>

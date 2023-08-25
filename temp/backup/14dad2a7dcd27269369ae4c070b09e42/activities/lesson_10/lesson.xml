@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="10" modulename="lesson" contextid="31">
+  <lesson id="1">
+    <course>4</course>
+    <name>Self Awareness - Individual Micro Practice</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Step 1: STOP&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Step 2: BREATHE DEEPLY&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Step 3: For a few minutes, simply observe nature. Notice your surroundings (sky, trees, birds). See if you can quieten the mind by paying complete attention to the sense of sight. Notice the light, the sky, clouds or any other element of nature. For this observation, try not to bring in knowledge and definitions like 'this is a gulmohar tree' or 'this is a marigold flower' but instead go directly into the experience itself. See how many new beautiful details you can observe even in a place you might have seen many times earlier!&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Contemplate this: The past is history, the future is a mystery, and it is the present moment that is perfect!&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;ACTIVITY GUIDELINE:&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;This is a short practice of 5-10 minutes, that you can follow for a few days (or longer!).&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;SPECIAL INSTRUCTIONS:&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;This is best done outdoors or from a place where you can observe nature (park, garden, apartment window or terrace)&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>0</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>1</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>1683087300</available>
+    <deadline>0</deadline>
+    <timemodified>1688239387</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>1</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1680409216</timecreated>
+        <timemodified>1680497306</timemodified>
+        <title>Activity Review</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Explain how you feel after this activity&lt;br&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1680409216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Write your answer below</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="5">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>10</score>
+            <flags>0</flags>
+            <timecreated>1680409216</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>@#wronganswer#@</answer_text>
+            <response></response>
+            <answerformat>0</answerformat>
+            <responseformat>1</responseformat>
+            <attempts>
+              <attempt id="21">
+                <userid>9</userid>
+                <retry>0</retry>
+                <correct>1</correct>
+                <useranswer>89</useranswer>
+                <timeseen>1688239413</timeseen>
+              </attempt>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+      <grade id="1">
+        <userid>7</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680415089</completed>
+      </grade>
+      <grade id="3">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680415182</completed>
+      </grade>
+      <grade id="5">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496486</completed>
+      </grade>
+      <grade id="6">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496522</completed>
+      </grade>
+      <grade id="7">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496722</completed>
+      </grade>
+      <grade id="8">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496747</completed>
+      </grade>
+      <grade id="9">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496774</completed>
+      </grade>
+      <grade id="10">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496874</completed>
+      </grade>
+      <grade id="11">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680496901</completed>
+      </grade>
+      <grade id="12">
+        <userid>4</userid>
+        <grade>0</grade>
+        <late>0</late>
+        <completed>1680497076</completed>
+      </grade>
+      <grade id="13">
+        <userid>4</userid>
+        <grade>100</grade>
+        <late>0</late>
+        <completed>1680497261</completed>
+      </grade>
+    </grades>
+    <timers>
+      <timer id="1">
+        <userid>8</userid>
+        <starttime>1680409226</starttime>
+        <lessontime>1680409226</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="4">
+        <userid>7</userid>
+        <starttime>1680415077</starttime>
+        <lessontime>1680415089</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="6">
+        <userid>4</userid>
+        <starttime>1680415178</starttime>
+        <lessontime>1680415182</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="8">
+        <userid>4</userid>
+        <starttime>1680496481</starttime>
+        <lessontime>1680496486</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="9">
+        <userid>4</userid>
+        <starttime>1680496515</starttime>
+        <lessontime>1680496710</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="10">
+        <userid>4</userid>
+        <starttime>1680496715</starttime>
+        <lessontime>1680496722</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="11">
+        <userid>4</userid>
+        <starttime>1680496743</starttime>
+        <lessontime>1680496747</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="12">
+        <userid>4</userid>
+        <starttime>1680496770</starttime>
+        <lessontime>1680496774</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="13">
+        <userid>4</userid>
+        <starttime>1680496846</starttime>
+        <lessontime>1680496874</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="14">
+        <userid>4</userid>
+        <starttime>1680496896</starttime>
+        <lessontime>1680496901</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="15">
+        <userid>4</userid>
+        <starttime>1680497067</starttime>
+        <lessontime>1680497261</lessontime>
+        <completed>1</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="16">
+        <userid>4</userid>
+        <starttime>1680497494</starttime>
+        <lessontime>1680497494</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="19">
+        <userid>12</userid>
+        <starttime>1680699825</starttime>
+        <lessontime>1680699877</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="25">
+        <userid>14</userid>
+        <starttime>1683623163</starttime>
+        <lessontime>1683623163</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+      <timer id="138">
+        <userid>9</userid>
+        <starttime>1688239407</starttime>
+        <lessontime>1688239417</lessontime>
+        <completed>0</completed>
+        <timemodifiedoffline>0</timemodifiedoffline>
+      </timer>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

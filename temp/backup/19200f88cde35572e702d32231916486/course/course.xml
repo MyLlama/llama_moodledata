@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="9" contextid="98">
+  <shortname>DCL</shortname>
+  <fullname>Demo Course - Llama</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;This is a demo course for Llama&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1691692200</startdate>
+  <enddate>1693377540</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1685601675</timecreated>
+  <timemodified>1691729089</timemodified>
+  <requested>0</requested>
+  <showactivitydates>1</showactivitydates>
+  <showcompletionconditions>1</showcompletionconditions>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <category id="1">
+    <name>INTRA-PERSONAL </name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+  <courseformatoptions>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>hiddensections</name>
+      <value>0</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>coursedisplay</name>
+      <value>0</value>
+    </courseformatoption>
+  </courseformatoptions>
+</course>

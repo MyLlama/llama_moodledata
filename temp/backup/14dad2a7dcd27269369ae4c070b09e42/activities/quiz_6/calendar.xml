@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="4">
+    <name>Pre Assessment opens</name>
+    <description>&lt;div class="no-overflow"&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Hello folks,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;This assessment needs to be completed before starting the course. It will take only couple of minutes to do so!&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Warmly,&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Team Llama&lt;/p&gt;&lt;/div&gt;</description>
+    <format>1</format>
+    <courseid>4</courseid>
+    <groupid>0</groupid>
+    <userid>6</userid>
+    <repeatid>0</repeatid>
+    <modulename>quiz</modulename>
+    <instance>2</instance>
+    <type>0</type>
+    <eventtype>open</eventtype>
+    <timestart>1683090180</timestart>
+    <timeduration>0</timeduration>
+    <timesort>1683090180</timesort>
+    <visible>1</visible>
+    <uuid></uuid>
+    <sequence>1</sequence>
+    <timemodified>1683522993</timemodified>
+    <priority>$@NULL@$</priority>
+    <location>$@NULL@$</location>
+  </event>
+</events>

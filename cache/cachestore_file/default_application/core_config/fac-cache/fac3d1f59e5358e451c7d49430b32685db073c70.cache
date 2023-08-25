@@ -1,0 +1,397 @@
+a:29:{s:10:"brandcolor";s:7:"#f79311";s:18:"disableteacherspic";s:1:"0";s:19:"displaymarketingbox";s:1:"0";s:17:"enablecourseindex";s:1:"1";s:8:"facebook";s:0:"";s:8:"faqcount";s:1:"0";s:7:"favicon";s:12:"/favicon.ico";s:8:"fontsite";s:6:"Roboto";s:15:"googleanalytics";s:0:"";s:9:"instagram";s:39:"https://www.instagram.com/zenwithllama/";s:8:"linkedin";s:41:"https://www.linkedin.com/company/myllama/";s:10:"loginbgimg";s:0:"";s:4:"logo";s:34:"/Llama-horizontal-aligned-logo.png";s:4:"mail";s:19:"askllama@myllama.co";s:6:"mobile";s:14:"+91 6361404813";s:16:"numbersfrontpage";s:1:"1";s:23:"numbersfrontpagecontent";s:0:"";s:6:"preset";s:10:"plain.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:7827:"#page {
+  min-height:100vh!important;
+  overflow-x: hidden!important;
+}
+
+#page-footer {
+  display: none!important;
+}
+
+#page-footer .column-center,
+#page-footer .column-right {
+  display: none !important;
+}
+#yui_3_17_2_1_1680168131533_993 {
+ display: none !important;
+}
+.btn.btn-icon.bg-secondary.icon-no-margin.btn-footer-popover {
+ display: none !important;
+}
+.profile_tree section:nth-child(6) {
+ display: none !important;
+}
+.filter-group {
+ display: none !important;
+}
+.course-content .section_footer {
+display: none !important;
+}
+.discussion-nav.clearfix {
+ display: none !important;
+}
+#accessibilitysettings-control {
+ display: none !important;
+}
+/*#nav-notification-popover-container {
+display: none !important;
+}
+.popover-region {
+ display: none !important;
+}*/
+
+.secondary-navigation .moremenu .nav-tabs .nav-link:hover, .secondary-navigation .moremenu .nav-tabs .nav-link:focus {
+  background-color: #f79311!important;
+}
+
+.btn.btn-primary.float-sm-right.float-right {
+    display: none;
+}
+
+.footer-link {
+    display: none;
+}
+
+.dropdown.mb-1.mr-1 {
+    display: none;
+}
+
+.moreless-toggler {
+display: none;
+}
+
+.copyright {
+ display: none !important;
+}
+
+#mode {
+display: none !important;
+}
+
+.card.activity-navigation.mdl-bottom {
+display: none !important;
+}
+
+.primary-navigation > .moremenu.navigation.observed > ul > li:first-child {
+  display: none !important;
+}
+
+#carousel-item-main .dropdown-item:nth-child(5),
+#carousel-item-main .dropdown-item:nth-child(6),
+#carousel-item-main .dropdown-item:nth-child(8),
+#carousel-item-main .dropdown-item:nth-child(7),
+#carousel-item-main .dropdown-item:nth-child(4),
+#carousel-item-main .dropdown-item:nth-child(9),
+#carousel-item-main .dropdown-item:nth-child(10) {
+display: none !important;
+}
+/* Hiding Edit Profile > General > Moodle Net Profile */
+#fitem_id_moodlenetprofile {
+  display: none;
+}
+/* Hiding Edit Profile > General > city */
+#fitem_id_city {
+  display: none;
+}
+/* Hiding Edit Profile > General > Discription Editor */
+#fitem_id_description_editor {
+  display: none;
+}
+
+/* Hiding Edit Profile > General > Discription Editor */
+#fitem_id_description_editor {
+  display: none;
+}
+/* Hiding Edit Profile > Image > Image Discription */
+#fitem_id_imagealt {
+  display: none;
+}
+/* Hiding Additional Names Section */
+#id_moodle_additional_names {
+  display: none;
+}
+/* Hiding Interests Section */
+#id_moodle_interests {
+  display: none;
+}
+/* Hiding Optionals Section */
+#id_moodle_optional {
+  display: none;
+}
+
+/* Hiding first name section in participant tab under courses */
+.initialbar.firstinitial.d-flex.flex-wrap.justify-content-center.justify-content-md-start {
+  display: none!important;
+}
+
+/* Hiding last name section in participant tab under courses */
+.initialbar.lastinitial.d-flex.flex-wrap.justify-content-center.justify-content-md-start {
+  display: none!important;
+}
+
+/* Hiding preassessment text,  Not yet answered, Marked out of 1.00, Flag question */
+.state {
+  display: none;
+}
+
+.questionflag.editable {
+  display: none;
+}
+
+/*Lets remove the more option from top bar*/
+
+/*Remove the sections "what to include" and "display options from the results tab*/
+
+/*Remove Regrade all and dry run a regrade options also*/
+
+/*Hiding What to include */
+#id_preferencespage {
+  display: none;
+}
+#id_preferencesuser {
+  display: none;
+}
+
+/*a[id^="moremenu-dropdown"] {
+    display: none!important;
+}*/
+
+/* Hiding overview report from grader report */
+/* li#select-menu-option64806e952661e11 {
+  display: none !important;
+}  NOT WORKING */
+
+ /* Remove the "with selected users..."option at the bottom */
+
+
+/* Removing ADD CONTACT button from user profile */
+a#toggle-contact-button {
+    display: none;
+}
+
+/* Removing Quiz result buttons */
+body form[action="https://learn.myllama.co/mod/quiz/report.php"] input {
+  display: none;
+}
+
+/* Removing forum subscription */
+[data-key="forumsubscriptions"] {
+  display: none;
+}
+
+
+/* Removing groups in course participents */
+#participants .header.c4 {
+  display: none;
+}
+
+#participants .cell.c4 {
+  display: none;
+}
+
+/* Centering the text "cookies notice" in login page */
+
+.d-flex.mt-2 {
+  /* text-align: center; */
+  /* width: 50%; */
+  /* margin: auto; */
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+}
+
+/* Hiding Login as a guest */
+form#guestlogin {
+  display: none;
+}
+
+/* Changing the appearance of card 
+.dropdown-menu.dropdown-menu-right.show {
+    z-index: 99 !important;
+}*/
+
+.card.dashboard-card {
+    z-index: 1 !important;
+}
+
+/* Hiding extra footer links */
+.footer-content-popover.container {
+    display: none;
+}
+.footer-section.p-3 {
+  display: none;
+}
+
+
+#download {
+  display: none!important;
+}
+
+#print, 
+#searchform {
+  display: none!important;
+}
+
+.pagelayout-login #page {
+  background-color: #fcf7ee!important;
+  background-image: none !important;
+}
+
+#page-login-index .login-container .loginform {
+  box-shadow: 0 .5rem 1rem rgba(227, 97, 19, 0.19) !important;
+}
+
+#page, #page.drawers {
+  background-color:#fcf7ee!important;
+}
+
+#page.drawers .main-inner {
+  border-radius:12px!important;
+  box-shadow: 0rem .5rem 1rem rgba(227, 97, 19, 0.19) !important;
+}
+
+.mr-1, .mx-1 {
+  margin-right: 0.40rem!important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #f79311;
+}
+
+.drawer.drawer-left.show {
+  background-color: white !important;
+}
+
+.drawercontent {
+  background-color: white !important;
+}
+
+.drawerheader {
+  background-color: white !important;
+}
+
+body {
+  background-color: #fcf7ee!important;
+}
+
+.col-md-4 {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  max-width: initial;
+}
+
+.loginform [data-modal="alert"] {
+  display: none;
+}
+
+/* Custom Footer*/
+.custom-footer {
+  background-color: #fff;
+  padding:10px;
+  width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
+}
+
+.custom-footer h5 {
+  color: #f79311;
+}
+
+.custom-footer-content {
+  display:flex;
+  justify-content: space-around;
+ flex-wrap:wrap;
+}
+
+.custom-footer-icons-wrapper {
+  display:flex;
+  width:20%;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.custom-footer-icon {
+  font-size:30px;
+  margin-right:10px;
+}
+
+.custom-footer-icon a {
+  text-decoration: none;
+}
+
+.custom-footer-company-section, .custom-footer-resources-section, .custom-footer-contact-section, .custom-footer-icons-wrapper {
+  min-width: 300px;
+  margin: 20px;
+  color:black;
+}
+
+.custom-footer-company-section a, .custom-footer-resources-section a {
+  color:black;
+  text-decoration: none;
+}
+
+.custom-footer-whatsapp {
+  background-color:#25D366;
+  max-width:250px; 
+  border-radius:60px; 
+  padding: 0px 15px;
+  display:flex;
+  align-items: center;
+}
+
+/* Responsiveness  */
+@media only screen and (max-width: 600px) {
+
+.custom-footer-content {
+  flex-direction: column;
+  text-align:center;
+}
+
+.custom-footer-company-section, .custom-footer-resources-section, .custom-footer-contact-section, .custom-footer-icons-wrapper {
+  margin: 10px;
+}
+
+.custom-footer-icons-wrapper {
+  width: 40%!important;
+  margin:auto;
+}
+
+.custom-footer-whatsapp {
+  margin: auto;
+}
+
+#page-login-index .login-container .loginform {
+  margin-top: 30%;
+}
+
+.no-overflow {
+    overflow-x: scroll!important;
+}
+
+.course-contacts {
+  padding: 5%;
+}
+
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+.calendar-controls h4 {
+font-size: initial!important;
+}
+
+.calendar-controls .arrow_text {
+display: none;
+}
+
+select {
+  max-width: 200px !important;
+}
+
+.preferences-page-container {
+ overflow:scroll!important;
+}
+
+}";s:7:"scsspre";s:0:"";s:18:"secondarymenucolor";s:7:"#f79311";s:11:"slidercount";s:1:"0";s:8:"telegram";s:0:"";s:7:"twitter";s:0:"";s:7:"version";s:10:"2022112801";s:7:"website";s:23:"https://www.myllama.co/";s:8:"whatsapp";s:12:"916361404813";s:7:"youtube";s:0:"";}
